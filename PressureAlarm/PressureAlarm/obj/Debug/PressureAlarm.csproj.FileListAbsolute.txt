@@ -1,0 +1,6 @@
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\bin\Debug\PressureAlarm.dll
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\bin\Debug\PressureAlarm.pdb
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\obj\Debug\PressureAlarm.csprojAssemblyReference.cache
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\obj\Debug\PressureAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\obj\Debug\PressureAlarm.dll
+C:\Users\Seumas\source\repos\PressureAlarm\PressureAlarm\obj\Debug\PressureAlarm.pdb

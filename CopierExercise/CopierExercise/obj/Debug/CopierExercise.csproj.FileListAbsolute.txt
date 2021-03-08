@@ -1,0 +1,6 @@
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\bin\Debug\CopierExercise.dll
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\bin\Debug\CopierExercise.pdb
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\obj\Debug\CopierExercise.csprojAssemblyReference.cache
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\obj\Debug\CopierExercise.csproj.CoreCompileInputs.cache
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\obj\Debug\CopierExercise.dll
+C:\Users\Seumas\source\repos\CopierExercise\CopierExercise\obj\Debug\CopierExercise.pdb

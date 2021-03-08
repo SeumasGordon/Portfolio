@@ -1,0 +1,3 @@
+﻿  SeumasGordon_Lab6.cpp
+C:\Users\Seumas\OneDrive\Programs\DataStruct\SeumasGordon_Lab6\SeumasGordon_Lab6\BST.h(119): warning C4715: 'BST<int>::findrecursice': not all control paths return a value
+  SeumasGordon_Lab6.vcxproj -> C:\Users\Seumas\OneDrive\Programs\DataStruct\SeumasGordon_Lab6\Debug\SeumasGordon_Lab6.exe

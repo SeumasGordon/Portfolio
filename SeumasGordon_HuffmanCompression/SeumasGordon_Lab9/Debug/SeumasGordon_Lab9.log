@@ -1,0 +1,4 @@
+﻿  SeumasGordon_Lab9.cpp
+C:\Users\Seumas\OneDrive\Programs\DataStruct\SeumasGordon_Lab9\SeumasGordon_Lab9\HuffmanUtils.h(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Seumas\OneDrive\Programs\DataStruct\SeumasGordon_Lab9\SeumasGordon_Lab9\HuffmanUtils.h(97,23): warning C4018: '<': signed/unsigned mismatch
+  SeumasGordon_Lab9.vcxproj -> C:\Users\Seumas\OneDrive\Programs\DataStruct\SeumasGordon_Lab9\Debug\SeumasGordon_Lab9.exe

@@ -1,0 +1,11 @@
+C:\Users\seuma\OneDrive\Desktop\Programs\PG2-Programs\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\seuma\OneDrive\Desktop\Programs\PG2-Programs\Blackjack\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\seuma\OneDrive\Desktop\Programs\PG2-Programs\Blackjack\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\seuma\OneDrive\Desktop\Programs\PG2-Programs\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\seuma\OneDrive\Desktop\Programs\PG2-Programs\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Seumas\OneDrive\Programs\PG2-Programs\SeumasGordon_Blackjack\Blackjack\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache

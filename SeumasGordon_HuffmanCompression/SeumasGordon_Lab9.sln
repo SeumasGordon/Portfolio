@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SeumasGordon_Lab9", "SeumasGordon_Lab9\SeumasGordon_Lab9.vcxproj", "{86C8B2DD-1387-4418-80FF-567587FA228F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Debug|x64.ActiveCfg = Debug|x64
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Debug|x64.Build.0 = Debug|x64
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Debug|x86.ActiveCfg = Debug|Win32
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Debug|x86.Build.0 = Debug|Win32
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Release|x64.ActiveCfg = Release|x64
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Release|x64.Build.0 = Release|x64
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Release|x86.ActiveCfg = Release|Win32
+		{86C8B2DD-1387-4418-80FF-567587FA228F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548AAFB7-ED37-408E-AABC-1CBF13D6C381}
+	EndGlobalSection
+EndGlobal
